@@ -7,4 +7,4 @@ Using JAVA
 
 2.When taking a string in java using a char array , and want to convert the string into a characters, then use .tocharArray() method in java
 
-3.
+3. .length in java gives you the length of the characters in a string. 
