@@ -1,2 +1,0 @@
-# Leetcode
-My personal understanding
